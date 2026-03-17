@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">Hi, my name is Anirudh Sharma, and I’m a full-stack developer from India with 3+ years of hands-on experience building scalable web applications. I specialize in Python (FastAPI), JavaScript, and React, designing and developing secure, high-performance applications that solve real-world problems.<br><br>I work on client-focused and enterprise projects where I translate business requirements into reliable software solutions. My work involves:<br><br>Building scalable backend systems and REST APIs with FastAPI<br><br>Developing responsive frontend applications using React<br><br>Optimizing backend performance for speed and reliability<br><br>Integrating systems and automating workflows<br><br>Alongside FastAPI and React development, I also work with Salesforce technologies including Apex, Flows, Triggers, and administrative configurations to support business workflows and integrations.<br><br>Core strengths include:<br><br>Full-stack development with FastAPI, React, and JavaScript<br><br>Designing secure and scalable backend services<br><br>Creating maintainable and responsive frontend applications<br><br>API development and system integration<br><br>Salesforce development and administration<br><br>I enjoy solving complex problems, improving system performance, and building applications that create real business value.</p>
+<p align="left">Hi, I’m Anirudh Sharma 👋<br><br>I’m a full-stack developer from India with 3+ years of hands-on experience building scalable web applications. I specialize in Python (FastAPI) 🐍, JavaScript 🟨, and React ⚛️, designing and developing secure, high-performance applications that solve real-world problems.<br><br>I work on client-focused and enterprise projects where I translate business requirements into reliable software solutions. My work involves:<br><br>⚡ Building scalable backend systems and REST APIs with FastAPI<br><br>🎨 Developing responsive frontend applications using React<br><br>🚀 Optimizing backend performance for speed and reliability<br><br>🔗 Integrating systems and automating workflows<br><br>Alongside FastAPI and React development, I also work with Salesforce technologies 🛠️ including Apex, Flows, Triggers, and administrative configurations to support business workflows and integrations.<br><br>Core strengths include:<br><br>💻 Full-stack development with FastAPI, React, and JavaScript<br><br>🔒 Designing secure and scalable backend services<br><br>🎨 Creating maintainable and responsive frontend applications<br><br>🌐 API development and system integration<br><br>🛠️ Salesforce development and administration<br><br>I enjoy solving complex problems, improving system performance, and building applications that create real business value. ✨</p>
 
 ###
 
@@ -111,10 +111,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=anirudhStack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anirudhStack&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhStack&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/anirudhStack/anirudhStack/output/snake.svg" alt="Snake animation" />
 
 ###
